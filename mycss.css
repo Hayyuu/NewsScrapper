@@ -1,0 +1,118 @@
+body{
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: cover;
+}
+tr{
+	background:black;
+	
+}
+tr:hover{
+    background:grey;
+    
+}
+tr:hover a{
+    color: black;
+}
+#eachElement{
+    border: 4px solid lightgrey;
+    background-color: #d6d6c2;
+    width:1580px;
+    margin-left: 70px;
+    height: 500px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#aboutE{
+    border: 4px lightgrey;
+    background-color: #d6d6c2;
+    width:1620px;
+    margin-left: 70px;
+    height: 300px;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+#aboutE span{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 35px;
+
+}
+#table1{
+	margin-top: 5%;
+	width:92%;
+	height: 10%;
+	margin-left: 4%;
+}
+
+table a{
+	text-decoration: none;
+	color:grey;
+}
+div a{
+    text-decoration: none;
+    color:black;
+    margin-left: 20%;
+}
+div a p{
+    font-size: 30px;
+}
+div{
+    height: 70%;
+    width: 70%;
+    margin-top: 2%;
+}
+#table1 td{
+	text-align: center;
+}
+#table1 td:hover{
+    color: rgb(73, 108, 160);
+    background: black;
+}
+#table1 td:hover a{
+    color: rgb(73, 108, 160);
+}
+#table1 td:hover a:hover{
+    color:grey;
+}
+
+.home-img{
+    position: absolute;
+    right: 1%;
+    float: right;
+}
+
+.home-img img{
+    width: 60%;
+    height: 60%;
+}
+
+.title{
+    position: relative;
+    top: 150px;
+    
+}
+
+#name{
+    font-size: 50px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: myFont, Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0.5%;
+    padding-left: 10%;
+}
+
+#firstname{
+    color: rgb(73, 108, 160);
+}
+
+#occ{
+    font-family: myFont, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: rgb(59, 56, 56);
+    padding-left: 7%;
+}
+
+#amper{
+    color: rgb(73, 108, 160);
+}
+
